@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lekhacnhatdaoo.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 24 Aug 2022 03:08:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Oct 2022 16:14:27 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,20 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Popup home</title>
+		<link>https://lekhacnhatdaoo.github.io/mywordpress/popup-home/</link>
+		
+		<dc:creator><![CDATA[lekhacnhatdao]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 14:05:23 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhacnhatdaoo.github.io/mywordpress/?post_type=elementor_library&#038;p=772</guid>
+
+					<description><![CDATA[Content Area]]></description>
+										<content:encoded><![CDATA[<div class="elementor-theme-builder-content-area">Content Area</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Cá Voi Xanh</title>
 		<link>https://lekhacnhatdaoo.github.io/mywordpress/ca-voi-xanh/</link>
 					<comments>https://lekhacnhatdaoo.github.io/mywordpress/ca-voi-xanh/#respond</comments>

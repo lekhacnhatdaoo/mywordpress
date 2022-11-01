@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/author/lekhacnhatdao/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lekhacnhatdaoo.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 25 Oct 2022 16:41:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 31 Oct 2022 16:34:35 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>Top 3 thức ăn cho chó husky</title>
 		<link>https://lekhacnhatdaoo.github.io/mywordpress/top-3-thuc-an-cho-cho-husky/</link>
-					<comments>https://lekhacnhatdaoo.github.io/mywordpress/top-3-thuc-an-cho-cho-husky/#respond</comments>
 		
 		<dc:creator><![CDATA[lekhacnhatdao]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 08:47:00 +0000</pubDate>
@@ -101,8 +100,6 @@
 <p>Pedigree cũng là một loại hạt ăn cho chó Husky mà bạn nên biết, Pedigree có dòng <a href="https://petviet.vn/san-pham/pedigree-puppy-vi-ga-va-sua" target="_blank" rel="noopener">Pedigree Puppy dành cho chó Husky con ăn</a>, rất tốt và đầy đủ chất dinh dưỡng. Đây là loại thức ăn hạt có xuất xứ từ Mỹ, pedigree chính là nhà sản xuất thức ăn hạt cho chó hàng đầu tại quốc gia này.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lekhacnhatdaoo.github.io/mywordpress/top-3-thuc-an-cho-cho-husky/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
